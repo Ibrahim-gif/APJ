@@ -27,13 +27,13 @@
                             <div class="name">
                                 <a href="{!! url('/'); !!}" title="">
                                     <h5>APJ Technical University</h5>
-                                    <h5 class="primary-color">Vadodara</h5>
+                                    <h5 class="primary-color">Bangalore</h5>
                                 </a>
                             </div>
                         </div>
                     </div>
                     <div class="header-links">
-                        <a href="#" data-toggle="popover" title="Address" data-content="70, Millers Rd, Vasanth Nagar, Bengaluru, Karnataka 560052" data-placement="bottom"><i class="fa fa-map-marker fa-lg" aria-hidden="true"></i></a>
+                        <a href="#" data-toggle="popover" title="Address" data-content="70, Millers Rd, Vasanth Nagar,Bangalore, Karnataka 560052" data-placement="bottom"><i class="fa fa-map-marker fa-lg" aria-hidden="true"></i></a>
                         <a href="#" data-toggle="popover" title="Phone No." data-content="080 4370 0809" data-placement="bottom"><i class="fa fa-phone fa-lg" aria-hidden="true"></i></a>
                         <a href="#" data-toggle="popover" title="Email" data-content="helpdesk@apj.ac.in" data-placement="bottom"><i class="fa fa-envelope fa-lg" aria-hidden="true"></i></a>
                     </div>
@@ -153,7 +153,7 @@
                         <p>“I can't change the direction of the wind, but I can adjust my sails to always reach the destination.” -Jimmy Dean</p>
                     </blockquote>
                     <p>
-                        You have infinite potential. Your attitude can make or break you, so turn your attitude into one of gratitude, faith, trust, and above all optimism. A warm welcome to APJ,Vadodara. Current environment is characterized by the need to constantly innovate and to reinvent oneself in order to sustain and grow one's stature in the industry. We, at APJ believe that today's engineers need to inculcate in them the quality to adapt to the changing environment and to possess an action oriented approach. The primary goal of APJ is to provide an environment that helps our students - future engineers and leaders of the country - to realize their potential in full. Along with expertise in core subject knowledge we aim to improve their communication skills, critical thinking abilities, problem solving skills, creativity, moral values and sense of responsibility. Our educational and training programmes are anchored around the same philosophy. Though still at its nascent stage, APJ has started fostering a vision of becoming a leading Institution of the country. As an institute, we are committed towards creating a community which is vibrant and provides a lifetime learning experience both professionally and personally.
+                        You have infinite potential. Your attitude can make or break you, so turn your attitude into one of gratitude, faith, trust, and above all optimism. A warm welcome to APJ,Bangalore. Current environment is characterized by the need to constantly innovate and to reinvent oneself in order to sustain and grow one's stature in the industry. We, at APJ believe that today's engineers need to inculcate in them the quality to adapt to the changing environment and to possess an action oriented approach. The primary goal of APJ is to provide an environment that helps our students - future engineers and leaders of the country - to realize their potential in full. Along with expertise in core subject knowledge we aim to improve their communication skills, critical thinking abilities, problem solving skills, creativity, moral values and sense of responsibility. Our educational and training programmes are anchored around the same philosophy. Though still at its nascent stage, APJ has started fostering a vision of becoming a leading Institution of the country. As an institute, we are committed towards creating a community which is vibrant and provides a lifetime learning experience both professionally and personally.
                     </p>
                 </div>
             </div>
@@ -164,7 +164,7 @@
                 <span class="logo"><img src="img/IIITV_Logo_1x1_small.png" alt=""></span>
                 <div class="row">
                     <div class="col-sm-4 address">
-                        <strong>Address : </strong>70, Millers Rd, Vasanth Nagar, Bengaluru, Karnataka 560052
+                        <strong>Address : </strong>70, Millers Rd, Vasanth Nagar,Bangalore, Karnataka 560052
                     </div>
                     <div class="col-sm-4 links">
                         <div>

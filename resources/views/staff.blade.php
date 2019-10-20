@@ -27,13 +27,13 @@
                             <div class="name">
                                 <a href="{!! url('/'); !!}" title="">
                                     <h5>APJ Technical University</h5>
-                                    <h5 class="primary-color">Vadodara</h5>
+                                    <h5 class="primary-color">Bangalore</h5>
                                 </a>
                             </div>
                         </div>
                     </div>
                     <div class="header-links">
-                        <a href="#" data-toggle="popover" title="Address" data-content="70, Millers Rd, Vasanth Nagar, Bengaluru, Karnataka 560052" data-placement="bottom"><i class="fa fa-map-marker fa-lg" aria-hidden="true"></i></a>
+                        <a href="#" data-toggle="popover" title="Address" data-content="70, Millers Rd, Vasanth Nagar,Bangalore, Karnataka 560052" data-placement="bottom"><i class="fa fa-map-marker fa-lg" aria-hidden="true"></i></a>
                         <a href="#" data-toggle="popover" title="Phone No." data-content="080 4370 0809" data-placement="bottom"><i class="fa fa-phone fa-lg" aria-hidden="true"></i></a>
                         <a href="#" data-toggle="popover" title="Email" data-content="helpdesk@apj.ac.in" data-placement="bottom"><i class="fa fa-envelope fa-lg" aria-hidden="true"></i></a>
                     </div>
@@ -151,7 +151,7 @@
                             </div>
                             <div class="col-sm-10 col-md-10 col-lg-10">
                                 <b>Registrar</b>
-                                <br/> Contact : <b>registrar@apjvadodara.ac.in</b>
+                                <br/> Contact : <b>registrar@apjBangalore.ac.in</b>
                             </div>
                         </div>
                     </li>
@@ -163,7 +163,7 @@
                             </div>
                             <div class="col-sm-10 col-md-10 col-lg-10">
                                 Secretary to Registrar cum Accountant
-                                <br/> Contact : <b>namrata@apjvadodara.ac.in</b>
+                                <br/> Contact : <b>namrata@apjBangalore.ac.in</b>
                             </div>
                         </div>
                     </li>
@@ -175,7 +175,7 @@
                             </div>
                             <div class="col-sm-10 col-md-10 col-lg-10">
                                 Jr. Technical Superintendent
-                                <br/> Contact : <b>ndraval@apjvadodara.ac.in</b>
+                                <br/> Contact : <b>ndraval@apjBangalore.ac.in</b>
                             </div>
                         </div>
                     </li>
@@ -187,7 +187,7 @@
                             </div>
                             <div class="col-sm-10 col-md-10 col-lg-10">
                                 Jr. Technical Superintendent
-                                <br/> Contact : <b>jitusharma@apjvadodara.ac.in</b>
+                                <br/> Contact : <b>jitusharma@apjBangalore.ac.in</b>
                             </div>
                         </div>
                     </li>
@@ -199,7 +199,7 @@
                             </div>
                             <div class="col-sm-10 col-md-10 col-lg-10">
                                 Library Trainee
-                                <br/> Contact : <b>jay.joshi@apjvadodara.ac.in</b>
+                                <br/> Contact : <b>jay.joshi@apjBangalore.ac.in</b>
                             </div>
                         </div>
                     </li>
@@ -211,7 +211,7 @@
                             </div>
                             <div class="col-sm-10 col-md-10 col-lg-10">
                                 Administrative Assistant
-                                <br/> Contact : <b>darshana@apjvadodara.ac.in</b>
+                                <br/> Contact : <b>darshana@apjBangalore.ac.in</b>
                             </div>
                         </div>
                     </li>
@@ -223,7 +223,7 @@
                             </div>
                             <div class="col-sm-10 col-md-10 col-lg-10">
                                 Messenger cum Peon
-                                <br/> Contact : <b>yogesh@apjvadodara.ac.in</b>
+                                <br/> Contact : <b>yogesh@apjBangalore.ac.in</b>
                             </div>
                         </div>
                     </li>
@@ -236,7 +236,7 @@
                 <span class="logo"><img src="img/IIITV_Logo_1x1_small.png" alt=""></span>
                 <div class="row">
                     <div class="col-sm-4 address">
-                        <strong>Address : </strong>70, Millers Rd, Vasanth Nagar, Bengaluru, Karnataka 560052
+                        <strong>Address : </strong>70, Millers Rd, Vasanth Nagar,Bangalore, Karnataka 560052
                     </div>
                     <div class="col-sm-4 links">
                         <div>

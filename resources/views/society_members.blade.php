@@ -27,13 +27,13 @@
                             <div class="name">
                                 <a href="{!! url('/'); !!}" title="">
                                     <h5>APJ Technical University</h5>
-                                    <h5 class="primary-color">Vadodara</h5>
+                                    <h5 class="primary-color">Bangalore</h5>
                                 </a>
                             </div>
                         </div>
                     </div>
                     <div class="header-links">
-                        <a href="#" data-toggle="popover" title="Address" data-content="70, Millers Rd, Vasanth Nagar, Bengaluru, Karnataka 560052" data-placement="bottom"><i class="fa fa-map-marker fa-lg" aria-hidden="true"></i></a>
+                        <a href="#" data-toggle="popover" title="Address" data-content="70, Millers Rd, Vasanth Nagar,Bangalore, Karnataka 560052" data-placement="bottom"><i class="fa fa-map-marker fa-lg" aria-hidden="true"></i></a>
                         <a href="#" data-toggle="popover" title="Phone No." data-content="080 4370 0809" data-placement="bottom"><i class="fa fa-phone fa-lg" aria-hidden="true"></i></a>
                         <a href="#" data-toggle="popover" title="Email" data-content="helpdesk@apj.ac.in" data-placement="bottom"><i class="fa fa-envelope fa-lg" aria-hidden="true"></i></a>
                     </div>
@@ -212,7 +212,7 @@
                         <!-- <tr>
                             <td>9</td>
                             <td></td>
-                            <td>Gujarat State Fertilizers and Chemicals Limited, P.O. Fertilizer Nagar,Vadodara, Gujarat - 391750
+                            <td>Gujarat State Fertilizers and Chemicals Limited, P.O. Fertilizer Nagar,Bangalore, Gujarat - 391750
                             </td>
                             <td></td>
                             <td>Member</td>
@@ -242,7 +242,7 @@
                 <span class="logo"><img src="img/IIITV_Logo_1x1_small.png" alt=""></span>
                 <div class="row">
                     <div class="col-sm-4 address">
-                        <strong>Address : </strong>70, Millers Rd, Vasanth Nagar, Bengaluru, Karnataka 560052
+                        <strong>Address : </strong>70, Millers Rd, Vasanth Nagar,Bangalore, Karnataka 560052
                     </div>
                     <div class="col-sm-4 links">
                         <div>

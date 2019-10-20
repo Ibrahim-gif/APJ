@@ -27,13 +27,13 @@
                             <div class="name">
                                 <a href="{!! url('/'); !!}" title="">
                                     <h5>APJ Technical University</h5>
-                                    <h5 class="primary-color">Vadodara</h5>
+                                    <h5 class="primary-color">Bangalore</h5>
                                 </a>
                             </div>
                         </div>
                     </div>
                     <div class="header-links">
-                        <a href="#" data-toggle="popover" title="Address" data-content="70, Millers Rd, Vasanth Nagar, Bengaluru, Karnataka 560052" data-placement="bottom"><i class="fa fa-map-marker fa-lg" aria-hidden="true"></i></a>
+                        <a href="#" data-toggle="popover" title="Address" data-content="70, Millers Rd, Vasanth Nagar,Bangalore, Karnataka 560052" data-placement="bottom"><i class="fa fa-map-marker fa-lg" aria-hidden="true"></i></a>
                         <a href="#" data-toggle="popover" title="Phone No." data-content="080 4370 0809" data-placement="bottom"><i class="fa fa-phone fa-lg" aria-hidden="true"></i></a>
                         <a href="#" data-toggle="popover" title="Email" data-content="helpdesk@apj.ac.in" data-placement="bottom"><i class="fa fa-envelope fa-lg" aria-hidden="true"></i></a>
                     </div>
@@ -144,7 +144,7 @@
                 <br>
                 <ul class="list-group">
                     <li class="list-group-item">
-                        <h4>Faculty</h4> Presently the APJ Technical University, Vadodara is being mentored by DAIICT, Gandhinagar. Being the academic mentor, faculty recruitment for APJ is also managed by DAIICT. The institute invites applications from motivated candidates with research expertise in all areas of
+                        <h4>Faculty</h4> Presently the APJ Technical University, Bangalore is being mentored by DAIICT, Gandhinagar. Being the academic mentor, faculty recruitment for APJ is also managed by DAIICT. The institute invites applications from motivated candidates with research expertise in all areas of
                         <b>Computer Science and Information Technology</b>. Suitable candidates must have a doctorate in a relevant discipline. We have openings at the levels of Assistant Professor, Associate Professor, and Professor. Visiting faculty positions are also available for short or long term visits. To apply, please submit <b>a curriculum vitae, a publication list, a one-page summary of research
                     plans, a statement of teaching interests, and the names of three references.</b>
                     </li>
@@ -157,7 +157,7 @@
                 <span class="logo"><img src="img/IIITV_Logo_1x1_small.png" alt=""></span>
                 <div class="row">
                     <div class="col-sm-4 address">
-                        <strong>Address : </strong>70, Millers Rd, Vasanth Nagar, Bengaluru, Karnataka 560052
+                        <strong>Address : </strong>70, Millers Rd, Vasanth Nagar,Bangalore, Karnataka 560052
                     </div>
                     <div class="col-sm-4 links">
                         <div>

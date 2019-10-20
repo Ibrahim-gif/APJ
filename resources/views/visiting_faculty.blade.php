@@ -26,13 +26,13 @@
                             <div class="name">
                                 <a href="{!! url('/'); !!}" title="">
                                     <h5>APJ Technical University</h5>
-                                    <h5 class="primary-color">Vadodara</h5>
+                                    <h5 class="primary-color">Bangalore</h5>
                                 </a>
                             </div>
                         </div>
                     </div>
                     <div class="header-links">
-                        <a href="#" data-toggle="popover" title="Address" data-content="70, Millers Rd, Vasanth Nagar, Bengaluru, Karnataka 560052" data-placement="bottom"><i class="fa fa-map-marker fa-lg" aria-hidden="true"></i></a>
+                        <a href="#" data-toggle="popover" title="Address" data-content="70, Millers Rd, Vasanth Nagar,Bangalore, Karnataka 560052" data-placement="bottom"><i class="fa fa-map-marker fa-lg" aria-hidden="true"></i></a>
                         <a href="#" data-toggle="popover" title="Phone No." data-content="080 4370 0809" data-placement="bottom"><i class="fa fa-phone fa-lg" aria-hidden="true"></i></a>
                         <a href="#" data-toggle="popover" title="Email" data-content="helpdesk@apj.ac.in" data-placement="bottom"><i class="fa fa-envelope fa-lg" aria-hidden="true"></i></a>
                     </div>
@@ -153,7 +153,7 @@
                                 <br/> Visvesvaraya Technological University
                                 <br/>
                                 <b>Areas of Interest : </b>Fault tolerant control, Non linear control systems, neural networks and reconfigurable control systems.
-                                <!-- <br/> Contact : <b>director@apjvadodara.ac.in</b> --> -->
+                                <!-- <br/> Contact : <b>director@apjBangalore.ac.in</b> --> -->
                             </div>
                         </div>
                     </li>
@@ -168,7 +168,7 @@
                                 <br/> IIT Bombay
                                 <br/>
                                 <b>Areas of Interest : </b>Information Security, Cryptography, System Design and Analysis
-                                <!-- <br/> Contact : <b>maniklal.das@apjvadodara.ac.in</b> -->
+                                <!-- <br/> Contact : <b>maniklal.das@apjBangalore.ac.in</b> -->
                             </div>
                         </div>
                     </li>
@@ -183,7 +183,7 @@
                                 <br/> IIT Roorkee
                                 <br/>
                                 <b>Areas of Interest : </b> Design and Prototyping of Digital systems, Factory Automation
-                                <!-- <br/> Contact : <b>rahul_dubey@apjvadodara.ac.in</b> -->
+                                <!-- <br/> Contact : <b>rahul_dubey@apjBangalore.ac.in</b> -->
                             </div>
                         </div>
                     </li>
@@ -198,7 +198,7 @@
                                 <br/> IISC Bangalore, India
                                 <br/>
                                 <b>Areas of Interest : </b> Information theory, cryptography, number theory
-                                <!-- <br/> Contact : <b>gagan_garg@apjvadodara.ac.in</b> -->
+                                <!-- <br/> Contact : <b>gagan_garg@apjBangalore.ac.in</b> -->
                             </div>
                         </div>
                     </li>
@@ -213,7 +213,7 @@
                                 <br/> ML Sukhadia University, Udaipur
                                 <br/>
                                 <b>Areas of Interest : </b> Databases, Data Mining, Web of Data, Software Design
-                                <!-- <br/> Contact : <b>pm_jat@apjvadodara.ac.in</b> -->
+                                <!-- <br/> Contact : <b>pm_jat@apjBangalore.ac.in</b> -->
                             </div>
                         </div>
                     </li>
@@ -228,7 +228,7 @@
                                 <br/> Jadavpur University, Kolkata
                                 <br/>
                                 <b>Areas of Interest : </b> Information Retrieval, Natural Language processing, Digital Libraries
-                                <!-- <br/> Contact : <b>p_majumder@apjvadodara.ac.in</b> -->
+                                <!-- <br/> Contact : <b>p_majumder@apjBangalore.ac.in</b> -->
                             </div>
                         </div>
                     </li>
@@ -303,7 +303,7 @@
                                 <br/> ISI Calcutta
                                 <br/>
                                 <b>Areas of Interest : </b> Image Processing, Pattern Recognition, Fractal, Bayesian Network and Digital Image Watermarking
-                                <!-- <br/> Contact : <b>suman_mitra@apjvadodara.ac.in</b> -->
+                                <!-- <br/> Contact : <b>suman_mitra@apjBangalore.ac.in</b> -->
                             </div>
                         </div>
                     </li>
@@ -318,7 +318,7 @@
                                 <br/> Homi Bhabha National Institute, Mumbai
                                 <br/>
                                 <b>Areas of Interest : </b> Graph theory and algorithms
-                                <!-- <br/> Contact : <b>rahul_muthu@apjvadodara.ac.in</b> -->
+                                <!-- <br/> Contact : <b>rahul_muthu@apjBangalore.ac.in</b> -->
                             </div>
                         </div>
                     </li>
@@ -333,7 +333,7 @@
                                 <br/> Cornell University, USA
                                 <br/>
                                 <b>Areas of Interest : </b> Rural development and the related issues like Agriculture, Poverty, Unemployment and Wages, Rural Finance, Environment and Development, Disaster Management
-                                <!-- <br/> Contact : <b>alka_parikh@apjvadodara.ac.in</b> -->
+                                <!-- <br/> Contact : <b>alka_parikh@apjBangalore.ac.in</b> -->
                             </div>
                         </div>
                     </li>
@@ -363,7 +363,7 @@
                                 <br/> IIT Kharagpur
                                 <br/>
                                 <b>Areas of Interest : </b> Speaker recognition and wavelet signal processing
-                                <!-- <br/> Contact : <b> hemant_patil@apjvadodara.ac.in</b> -->
+                                <!-- <br/> Contact : <b> hemant_patil@apjBangalore.ac.in</b> -->
                             </div>
                         </div>
                     </li>
@@ -378,7 +378,7 @@
                                 <br/> BITS Pilani
                                 <br/>
                                 <b>Areas of Interest : </b> Semantic Web, Distributed Databases, Software System Analysis and Design
-                                <!-- <br/> Contact : <b>minal_bhise@apjvadodara.ac.in</b> -->
+                                <!-- <br/> Contact : <b>minal_bhise@apjBangalore.ac.in</b> -->
                             </div>
                         </div>
                     </li>
@@ -393,7 +393,7 @@
                                 <br/> R D University, Jabalpur
                                 <br/>
                                 <b>Areas of Interest : </b> Economics & General Management
-                                <br/> Contact : <b> nandini_banerjee@apjvadodara.ac.in</b>
+                                <br/> Contact : <b> nandini_banerjee@apjBangalore.ac.in</b>
                             </div>
                         </div>
                     </li> -->
@@ -406,7 +406,7 @@
                 <span class="logo"><img src="img/IIITV_Logo_1x1_small.png" alt=""></span>
                 <div class="row">
                     <div class="col-sm-4 address">
-                        <strong>Address : </strong>70, Millers Rd, Vasanth Nagar, Bengaluru, Karnataka 560052
+                        <strong>Address : </strong>70, Millers Rd, Vasanth Nagar,Bangalore, Karnataka 560052
                     </div>
                     <div class="col-sm-4 links">
                         <div>

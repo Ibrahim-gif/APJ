@@ -27,13 +27,13 @@
                             <div class="name">
                                 <a href="{{ url('/') }}" title="">
                                     <h5>APJ Technical University</h5>
-                                    <h5 class="primary-color">Vadodara</h5>
+                                    <h5 class="primary-color">Bangalore</h5>
                                 </a>
                             </div>
                         </div>
                     </div>
                     <div class="header-links">
-                        <a id="loc_icon" href="#" data-toggle="popover" title="Address" data-content="70, Millers Rd, Vasanth Nagar, Bengaluru, Karnataka 560052" data-placement="bottom"><i class="fa fa-map-marker fa-lg" aria-hidden="true"></i></a>
+                        <a id="loc_icon" href="#" data-toggle="popover" title="Address" data-content="70, Millers Rd, Vasanth Nagar,Bangalore, Karnataka 560052" data-placement="bottom"><i class="fa fa-map-marker fa-lg" aria-hidden="true"></i></a>
                         <a id="phone_icon" href="#" data-toggle="popover" title="Phone No." data-content="080 4370 0809" data-placement="bottom"><i class="fa fa-phone fa-lg" aria-hidden="true"></i></a>
                         <a id="email_icon" href="#" data-toggle="popover" title="Email" data-content="helpdesk@apj.ac.in" data-placement="bottom"><i class="fa fa-envelope fa-lg" aria-hidden="true"></i></a>
 
@@ -138,8 +138,8 @@
             <!-- Contents starts here -->
             <div class="content">
                 <h1>About us</h1>
-                <p>APJ Technical University (APJ) is set up by the Ministry of Human Resource Development (MHRD), Government Of India under Public Private Partnership (PPP) model. The partners in this project are Government Of India, Government of Gujarat, Gujarat Energy Research and Management Institute, Gujarat State Fertilizers and Chemicals and Tata Consultancy Services. The Institute was established in the year 2013. DA-IICT Gandhinagar has been entrusted the responsibility of mentoring APJ. At present, APJ is operating from its temporary premises at Government Engineering College (Gandhinagar) till the time its new campus is made operational at Vadodara, Gujarat.</p>
-                <p>APJ Technical University, Vadodara - is established to cater to the emerging needs and opportunities and meet economic challenges being thrown by the incessant IT revolution. It is setup as a Not for Profit Public Private Partnership (PPP) model. It is a major initiative taken by Government of Gujarat to harness the multifarious dimension of IT Industry. The Government of Gujarat has lent support to the Institute by providing 50 acres of land and Building. It is aimed at providing future candidates who shall become a precursor in the field of IT. A Governing Council consisting of distinguished people from academia, industry and government preside over the governance of the institute.</p>
+                <p>APJ Technical University (APJ) is set up by the Ministry of Human Resource Development (MHRD), Government Of India under Public Private Partnership (PPP) model. The partners in this project are Government Of India, Government of Gujarat, Gujarat Energy Research and Management Institute, Gujarat State Fertilizers and Chemicals and Tata Consultancy Services. The Institute was established in the year 2013. DA-IICT Gandhinagar has been entrusted the responsibility of mentoring APJ. At present, APJ is operating from its temporary premises at Government Engineering College (Gandhinagar) till the time its new campus is made operational at Bangalore, Gujarat.</p>
+                <p>APJ Technical University, Bangalore - is established to cater to the emerging needs and opportunities and meet economic challenges being thrown by the incessant IT revolution. It is setup as a Not for Profit Public Private Partnership (PPP) model. It is a major initiative taken by Government of Gujarat to harness the multifarious dimension of IT Industry. The Government of Gujarat has lent support to the Institute by providing 50 acres of land and Building. It is aimed at providing future candidates who shall become a precursor in the field of IT. A Governing Council consisting of distinguished people from academia, industry and government preside over the governance of the institute.</p>
                 <p>The Institute aims at evolving strong research programmes in a plethora of areas where IT shall provide a common link with profound emphasis on development of technology and its application.</p>
             </div>
         </div>
@@ -149,7 +149,7 @@
                 <span class="logo"><img src="img/IIITV_Logo_1x1_small.png" alt=""></span>
                 <div class="row">
                     <div class="col-sm-4 address">
-                        <strong>Address : </strong>70, Millers Rd, Vasanth Nagar, Bengaluru, Karnataka 560052
+                        <strong>Address : </strong>70, Millers Rd, Vasanth Nagar,Bangalore, Karnataka 560052
                     </div>
                     <div class="col-sm-4 links">
                         <div>

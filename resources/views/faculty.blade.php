@@ -27,13 +27,13 @@
                             <div class="name">
                                 <a href="{!! url('/'); !!}" title="">
                                     <h5>APJ Technical University</h5>
-                                    <h5 class="primary-color">Vadodara</h5>
+                                    <h5 class="primary-color">Bangalore</h5>
                                 </a>
                             </div>
                         </div>
                     </div>
                     <div class="header-links">
-                        <a href="#" data-toggle="popover" title="Address" data-content="70, Millers Rd, Vasanth Nagar, Bengaluru, Karnataka 560052" data-placement="bottom"><i class="fa fa-map-marker fa-lg" aria-hidden="true"></i></a>
+                        <a href="#" data-toggle="popover" title="Address" data-content="70, Millers Rd, Vasanth Nagar,Bangalore, Karnataka 560052" data-placement="bottom"><i class="fa fa-map-marker fa-lg" aria-hidden="true"></i></a>
                         <a href="#" data-toggle="popover" title="Phone No." data-content="080 4370 0809" data-placement="bottom"><i class="fa fa-phone fa-lg" aria-hidden="true"></i></a>
                         <a href="#" data-toggle="popover" title="Email" data-content="helpdesk@apj.ac.in" data-placement="bottom"><i class="fa fa-envelope fa-lg" aria-hidden="true"></i></a>
                     </div>
@@ -154,7 +154,7 @@
                                 <br/> IIT Kanpur
                                 <br/>
                                 <b>Areas of Interest : </b>Physics of organic semiconductor devices, in particular, organic light-emitting diodes and solar cells. Hybrid devices involving organic materials embedded with inorganic nano-particles. Understanding physical processes such as charge-carrier transport and recombination in the practical devices.
-                                <br/> Contact : <b>dhirendra.sinha@apjvadodara.ac.in</b>
+                                <br/> Contact : <b>dhirendra.sinha@apjBangalore.ac.in</b>
                             </div>
                         </div>
                     </li>
@@ -169,7 +169,7 @@
                                 <br/> DA-IICT
                                 <br/>
                                 <b>Areas of Interest : </b>Differential Geometry, Signal Processing, Scientific Computing.
-                                <br/> Contact : <b>pratik@apjvadodara.ac.in</b>
+                                <br/> Contact : <b>pratik@apjBangalore.ac.in</b>
                             </div>
                         </div>
                     </li>
@@ -184,7 +184,7 @@
                                 <br/> JNU New Delhi
                                 <br/>
                                 <b>Areas of Interest : </b>Applied Linguistics, Sociolinguistics, Discourse Analysis, Gender Studies, Technical Communication.
-                                <br/> Contact : <b>barnali@apjvadodara.ac.in</b>
+                                <br/> Contact : <b>barnali@apjBangalore.ac.in</b>
                             </div>
                         </div>
                     </li>
@@ -199,7 +199,7 @@
                                 <br/> IIT Patna
                                 <br/>
                                 <b>Areas of Interest : </b> Cigar-shaped Bose-Einstein condensate, Optical Lattices, Solitons, Many-body physics.
-                                <br/> Contact : <b>ajay.nath@apjvadodara.ac.in</b>
+                                <br/> Contact : <b>ajay.nath@apjBangalore.ac.in</b>
                             </div>
                         </div>
                     </li>
@@ -214,7 +214,7 @@
                                 <br/> ABV-IIITM, Gwalior
                                 <br/>
                                 <b>Areas of Interest : </b> Device-Circuit Co-Design, Hybrid Device-Circuit Interaction, Novel Semiconductor Device Design and Modeling.
-                                <br/> Contact : <b>kamal@apjvadodara.ac.in</b>
+                                <br/> Contact : <b>kamal@apjBangalore.ac.in</b>
                             </div>
                         </div>
                     </li>
@@ -229,7 +229,7 @@
                                 <br/> DA-IICT
                                 <br/>
                                 <b>Areas of Interest : </b> Signal and image processing, Remote sensing, Inverse problems in imaging.
-                                <br/> Contact : <b>jignesh.bhatt@apjvadodara.ac.in</b>
+                                <br/> Contact : <b>jignesh.bhatt@apjBangalore.ac.in</b>
                             </div>
                         </div>
                     </li>
@@ -244,7 +244,7 @@
                                 <br/> DA-IICT
                                 <br/>
                                 <b>Areas of Interest : </b> Image Processing, Pattern Recognition, Medical Image Analysis.
-                                <br/> Contact : <b>ashish_p@apjvadodara.ac.in</b>
+                                <br/> Contact : <b>ashish_p@apjBangalore.ac.in</b>
                             </div>
                         </div>
                     </li>
@@ -259,7 +259,7 @@
                                 <br/> DA-IICT
                                 <br/>
                                 <b>Areas of Interest : </b> Information security.
-                                <br/> Contact : <b>naveen_kumar@apjvadodara.ac.in</b>
+                                <br/> Contact : <b>naveen_kumar@apjBangalore.ac.in</b>
                             </div>
                         </div>
                     </li>
@@ -274,7 +274,7 @@
                                 <br/> IIT Bombay
                                 <br/>
                                 <b>Areas of Interest : </b> Commutative Algebra.
-                                <br/> Contact : <b>swapnil@apjvadodara.ac.in</b>
+                                <br/> Contact : <b>swapnil@apjBangalore.ac.in</b>
                             </div>
                         </div>
                     </li>
@@ -289,7 +289,7 @@
                                 <br/> Technical University of Valencia (UPV), Spain
                                 <br/>
                                 <b>Areas of Interest : </b> Information Retrieval, Machine Learning.
-                                <br/> Contact : <b>pgupta@apjvadodara.ac.in</b>
+                                <br/> Contact : <b>pgupta@apjBangalore.ac.in</b>
                             </div>
                         </div>
                     </li>
@@ -317,7 +317,7 @@
                 <span class="logo"><img src="img/IIITV_Logo_1x1_small.png" alt=""></span>
                 <div class="row">
                     <div class="col-sm-4 address">
-                        <strong>Address : </strong>70, Millers Rd, Vasanth Nagar, Bengaluru, Karnataka 560052
+                        <strong>Address : </strong>70, Millers Rd, Vasanth Nagar,Bangalore, Karnataka 560052
                     </div>
                     <div class="col-sm-4 links">
                         <div>
